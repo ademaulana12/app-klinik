@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://localhost/demo/demo-8-klinik/';
-$config['base_url'] = 'http://demo.mademaulana.skom.id/';
+$config['base_url'] = 'http://demo.mademaulana.skom.id/app/';
 
 /*
 |--------------------------------------------------------------------------
